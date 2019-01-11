@@ -1,0 +1,12 @@
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\SqlServerEFSample.exe.config
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\SqlServerEFSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\SqlServerEFSample.pdb
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\EntityFramework.dll
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\EntityFramework.xml
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\obj\Debug\SqlServerEFSample.csprojAssemblyReference.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\obj\Debug\SqlServerEFSample.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\obj\Debug\SqlServerEFSample.csproj.CopyComplete
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\obj\Debug\SqlServerEFSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerEFSample\SqlServerEFSample\obj\Debug\SqlServerEFSample.pdb
